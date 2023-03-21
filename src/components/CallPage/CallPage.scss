@@ -1,0 +1,19 @@
+.callpage-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(32,33,36);
+  height: 100vh;
+  z-index: -1;       
+    #video-1 {           
+      margin: 10px;      
+      object-fit: cover;           
+    }
+    #video-2 {      
+      margin: 10px;
+      object-fit: cover;               
+    }
+    .video{
+      border: 2px solid gray;    
+    }
+  }
