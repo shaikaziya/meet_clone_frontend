@@ -1,1 +1,1 @@
-export const api_url = "https://mern-meet-clone-backend.vercel.app";
+export const api_url = "https://meet-clone-backend.vercel.app/";
